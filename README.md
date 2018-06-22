@@ -36,6 +36,6 @@ There we go!
 # Continuous Integration Step 2 #
 STEP 2      | 
 ------------|
-<img src="https://pasteboard.co/Hr2rTMJ.png" width="800">  |
+<img src="https://cdn.pbrd.co/images/Hr2rTMJ.png" width="800">  |
 There we go!
 
